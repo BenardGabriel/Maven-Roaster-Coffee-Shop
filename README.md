@@ -1,5 +1,11 @@
 # Maven-Roaster-Coffee-Shop
+
+## Project Overview 
 This project aims to provides an insightful overview of Maven Roasters' key business metrics, including total revenue, quantity sold, customer count, and product performance. It visualizes sales trends over time, identifies peak business days, and highlights the most and least popular products. 
+
+![Screenshot 2025-02-06 122456](https://github.com/user-attachments/assets/c87b9339-06cd-4567-9ffe-c1c110caf301)
+
+
 
 ## Data Source
 The main dataset utilized for this analysis is the coffee shop sales file, which provides detailed information about each transaction made by the business.
